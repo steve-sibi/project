@@ -1,0 +1,9 @@
+!pip install tensorflow-privacy
+!pip install --upgrade tensorflow-estimator
+!pip install --upgrade tensorflow==2.14.0
+tensorflow==2.14.0
+tensorflow-privacy
+tensorflow-estimator
+seaborn
+pandas
+numpy
